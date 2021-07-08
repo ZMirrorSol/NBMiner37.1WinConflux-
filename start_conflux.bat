@@ -1,0 +1,1 @@
+nbminer -a octopus -o cfx-eu1.nanopool.org:17777 -u cfx:aam275ycdzmppd21uk0f0m2u0ny9mhy49j5x0n3n4v.ZMirror 
